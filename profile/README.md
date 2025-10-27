@@ -66,7 +66,7 @@ Supreme X exists to inspire collaboration — to build tools that let communitie
 
 We’re building a place for open minds and creative contributors.
 
-- 💬 Discussions (coming soon)
+- 💬 Discussions: [Join Now!](https://github.com/orgs/iiuo-supreme-x/discussions)
 - 🪩 Discord (in progress)
 - 🧭 Contributions welcome on GitHub
 
