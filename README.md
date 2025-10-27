@@ -101,6 +101,3 @@ Feel free to update/add these as your project grows:
 * Roadmap or project backlog
 * Code of Conduct (if you want to set community guidelines)
 * Contribution milestones or “Good First Issues” tag
----
-
-Would you like me to generate this **README.md** file in a ready-to-paste format, or also draft a separate `CONTRIBUTING
