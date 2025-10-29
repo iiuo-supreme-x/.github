@@ -1,5 +1,9 @@
 # 👋 Welcome to Supreme X
 
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/sx.itisuniqueofficial.com)](https://sx.itisuniqueofficial.com)
+[![GitHub Pages](https://img.shields.io/badge/Powered_by-GitHub_Pages-181717?logo=github)](https://sx.itisuniqueofficial.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > 🌀 *Building the open-source future of collaborative knowledge.*
 
 ---
